@@ -1,8 +1,5 @@
 import images from './images';
 
-
-export default { wines, cocktails, awards };
-
 const wines = [
   {
     title: 'Chapel Hill Shiraz',
@@ -81,3 +78,5 @@ const awards = [
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
+
+export default { wines, cocktails, awards };
